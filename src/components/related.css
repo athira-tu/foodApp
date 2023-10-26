@@ -1,0 +1,12 @@
+.head2{
+    margin-left: 43%;
+    font-family: 'Dancing Script', cursive;
+    color: red;
+}
+.related{
+    display: flex;
+    justify-content: flex-start;
+    gap: 50px;
+    margin-left: 18%;
+    margin-right: 18%;
+}

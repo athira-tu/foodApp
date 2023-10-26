@@ -1,0 +1,30 @@
+.Header{
+    display: flex;
+    /* background-color: aqua; */
+    height: 70px;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    /* align-items:center; */
+}
+.center-item{
+    display: flex;
+    gap: 30px;
+}
+.icons{
+    display: flex;
+    align-items: center;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:'Dancing Script', cursive ;
+    color: red;
+    font-size: 30px;
+    font-weight: 50px;
+    height: 70px;
+}
+p{
+    font-weight: 700;
+}

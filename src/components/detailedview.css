@@ -1,0 +1,100 @@
+.top{
+    width: 90%;
+    height: 500px;
+    /* background-color: aqua; */
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.img-main{
+    width: 800px;
+    height: 500px;
+    margin-top: -70px;
+  
+}
+.description{
+    width: 600px;
+    height: 300px;
+    
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    padding: 50px ;
+    margin-top: 40px;
+    font-weight: 100;
+}
+
+
+.img-food{
+    width: 650px;
+    height: 500px;
+}
+.head1{
+   margin-left: 150px;
+   font-family: 'Dancing Script', cursive;
+   color: red;
+}
+.btn1-div{
+    width: 700px;
+    height:100px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.button1{
+    width: 220px;
+    height: 50px;
+    background-color: red;
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 15px;
+}
+.button2{
+    width: 220px;
+    height: 50px;
+    background-color: white;
+    border: red 1px solid;
+    color: red;
+    font-weight: 900;
+    border-radius: 15px;
+    font-size: 15px;
+    
+}
+.button2:hover{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    cursor: pointer;
+    border: none;
+}
+.button1:hover{
+    background-color: white;
+    color:red;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.size-btn{
+    width: 200px;
+    height: 30px;
+    /* width: 30px; */
+    margin: auto;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+.size{
+    background-color: red;
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+    width: 30px;
+}
+.size:hover{
+    background-color: white;
+    color:red;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    font-weight: 700;
+    cursor: pointer;
+}

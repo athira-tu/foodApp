@@ -1,0 +1,63 @@
+.main{
+    display: flex;
+}
+.Text{
+    display: flex;
+    width: 50%;
+    height: 500px;
+    justify-content:flex-start;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 30px;
+    
+}
+.orderbtn{
+    background-color: red;
+    color: white;
+    width: 120px;
+    height: 40px;
+    border-radius: 7px;
+    border: none;
+    
+}
+.orderbtn:hover{
+    width: 122px;
+    height: 42px;
+    background-color: white;
+    color:red;
+    border: red solid 1px;
+    font-weight: 800;
+   cursor: pointer;
+
+}
+.Btn-div{
+    display: flex;
+    width: 50%;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+}
+.image{
+    width: 50%;
+    height:500px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* .img{
+    width: 350px;
+    height: 300px;
+    border-radius: 100px;
+} */
+.span{
+    color: red;
+    font-family: 'Dancing Script', cursive;
+    font-size: 45px;
+}
+.head{
+    font-size: 20px;
+    width: 50%;
+}
+.ten{
+    color: red;
+}

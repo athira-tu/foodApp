@@ -1,0 +1,68 @@
+.fd-div{
+    height: 270px;
+    width: 240px;
+    border: black 1px solid;
+    flex-grow: 1;
+    flex-basis: 100;
+}
+.fd-main{
+    width: 60%;
+    height: auto;
+    margin: auto;
+
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    grid-gap:20px
+    
+}
+.fd-div1{
+    height: 340px;
+    width: 240px;
+    border: black 1px solid;
+
+    border: none;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;}
+.pizza{
+    width: 120px;
+    height: 120px;
+    margin: auto;
+    margin-top: 15px;
+}
+.pizza-img{
+width: 120px;
+height: 120px;
+}
+.item1{
+  margin-left: 15%;
+}
+.para{
+    font-weight: 10;
+}
+.btn-div{
+    display: flex;
+    justify-content: space-around;
+    /* margin-top: -10px; */
+}
+.btn1{
+    margin-top: 10px;
+    height: 40px;
+    width: 150px;
+    background-color: red;
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 15px;
+}
+.btn1:hover{
+    height: 42px;
+    width:152px;
+    /* border:red  1px solid; */
+    background-color: white;
+    color:red;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    font-weight: 700;
+    cursor: pointer;
+
+
+}

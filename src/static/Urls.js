@@ -1,0 +1,1 @@
+export const imgUrl = "https://anasksunil.pythonanywhere.com/"

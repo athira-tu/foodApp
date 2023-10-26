@@ -1,0 +1,20 @@
+.image1{
+    width: 400px;
+    height: 150px;
+}
+.img1{
+    margin-top: -40px;
+    width:30%
+}
+
+.dish-span{
+    color: red;
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+}
+.main1{
+    display: flex;
+}
+.head1{
+    margin-left: 100px;
+}
